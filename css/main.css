@@ -1,0 +1,11 @@
+.orange {
+	color: orange;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.ng-cloak {
+	display: none !important;
+}
